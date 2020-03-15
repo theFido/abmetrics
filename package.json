@@ -1,0 +1,23 @@
+{
+  "name": "abmetrics",
+  "version": "0.1.0",
+  "description": "Metrics registry for A/B testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "ab",
+    "testing"
+  ],
+  "author": "Fidencio Garrido <fido@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
